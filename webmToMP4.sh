@@ -1,6 +1,6 @@
 
 #!/bin/bash
-#Author: marcfs31@github.com
+#Author: Marc Fors
 
 file=`basename $1`
 file="${file%.*}"
